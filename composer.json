@@ -1,0 +1,17 @@
+{
+    "name": "lucatume/frf",
+    "autoload": {
+        "psr-4": {
+            "Lucatume\\Frf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Luca Tumedei",
+            "email": "luca@theaveragedev.com"
+        }
+    ],
+    "require": {
+        "nikic/php-parser": "^4.13"
+    }
+}
